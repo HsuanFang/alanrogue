@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_5c37cacef5fa7ce1f83dbfcbf99d0d7f455075b7.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.1_b43a6b3c958e87f9fc7f1dbbce42b10e291e924f.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_39efc25e74768d6c6c5080c547aa96001b6c937d.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.1_9a3ee94dcc105d471497e93c23b28f0284cb995b.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.4.1_df430fce44efc6fc2d701f7ccf00fe1524454e47.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_90ff7a18da09f3022b98dcda119a2b47a3befba9.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/tools.fastlane/screengrab/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74f527b9ae72cedc4fdbe4f47dbdf3cd5be90ee2">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/tools.fastlane-screengrab-0.2.0_f0299248d33fe40a6514015bcbdeccf507c853c7.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_c9d8b09c58090947eb8c8f0153826827cb966725.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_eb06588381d41005c189659f23fc8917beeafb0a.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_2896d1393d8b7eadf8c1832f6c69d269a3fcfaf5.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_2fe192ab7344da210cc383b3cb8291542d8011f1.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_0ff19a253e66201d6d0196a79dabf7696222471d.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.4.1_239069082376ed0c296def7396a3ffbc98c14fa1.jar" />
+    </item>
+    <item
+        jar="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="/Users/fanghsuan/Android_Project/Espressofirst/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.4.1_339b43c494e3a32a22215fa5d94067ec34b52fcb.jar" />
+    </item>
+
+</items>
